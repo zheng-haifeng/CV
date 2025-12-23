@@ -1,8 +1,8 @@
 main:
   - title: "About"
-    url: /
+    url: https://zheng-haifeng.github.io/
   - title: "Publications"
-    url: /publications/
+    url: https://zheng-haifeng.github.io/publications/
   - title: "中文"
-    url: /cn/
+    url: https://zheng-haifeng.github.io/cn/
 
