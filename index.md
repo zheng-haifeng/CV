@@ -4,6 +4,7 @@ author_profile: false
 classes: wide
 title: ""
 permalink: /
+disable_sidebar: false
 ---
 
 <style>
