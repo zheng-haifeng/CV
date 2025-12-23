@@ -2,6 +2,7 @@
 title: "郑海峰"
 permalink: /cn/
 author_profile: true
+nav: true
 ---
 
 ## 个人简介
