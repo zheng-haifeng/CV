@@ -1,7 +1,7 @@
 {% comment %}
-Global sidebar include for AcademicPages
-- Will not show on pages where page.disable_sidebar: true
-- Publications page will only render once (avoid duplicates)
+Global sidebar for AcademicPages
+- Disable per page using `disable_sidebar: true` in front matter
+- Avoid duplicate sidebar for publications pages
 {% endcomment %}
 
 {% unless page.disable_sidebar %}
