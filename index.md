@@ -103,6 +103,4 @@ environmental ecology, including <em>Soil Biology and Biochemistry</em>
 
 <h2>Publications</h2>
 
-</ul>
-👉 **For the complete list of papers, please click on Publications at the top of the homepage.
-</ul>
+👉 For the complete list of papers, please click on Publications at the top of the homepage.
