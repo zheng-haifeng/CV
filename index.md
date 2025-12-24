@@ -101,7 +101,8 @@ environmental ecology, including <em>Soil Biology and Biochemistry</em>
 <li><strong>Jiangsu Carbon Neutrality Program</strong> (Sub-project Leader), 2023–2027</li>
 </ul>
 
+<h2>Publications</h2>
+
 </ul>
-<li>## Selected Publications</li>
-<li>👉 **For the complete list of papers, please click on Publications at the top of the homepage.**</li>
+👉 **For the complete list of papers, please click on Publications at the top of the homepage.
 </ul>
